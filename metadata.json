@@ -1,0 +1,6 @@
+{
+  "name": "Shinfox Store Ultra X",
+  "description": "Offline counter transaction management system with Cosmic Dark theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
